@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "ng-bao"
+  "defaultProject": "ng-bao",
+  "cli": {
+    "analytics": "266416d8-4aa4-452e-8926-61dfb87fae61"
+  }
 }
